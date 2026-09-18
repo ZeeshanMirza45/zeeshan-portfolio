@@ -1,0 +1,1 @@
+Project cards use CSS artwork. Replace these with real project screenshots whenever ready.
